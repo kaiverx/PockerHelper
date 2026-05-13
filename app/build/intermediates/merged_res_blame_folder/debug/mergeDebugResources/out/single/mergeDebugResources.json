@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.pokerhelper.app-debug-50:/drawable_ic_stats.xml.flat",
+        "source": "com.pokerhelper.app-main-52:/drawable/ic_stats.xml"
+    },
+    {
+        "merged": "com.pokerhelper.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.pokerhelper.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.pokerhelper.app-debug-50:/drawable_ic_help.xml.flat",
+        "source": "com.pokerhelper.app-main-52:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.pokerhelper.app-debug-50:/drawable_ic_spade.xml.flat",
+        "source": "com.pokerhelper.app-main-52:/drawable/ic_spade.xml"
+    },
+    {
+        "merged": "com.pokerhelper.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.pokerhelper.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.pokerhelper.app-debug-50:/drawable_ic_cards.xml.flat",
+        "source": "com.pokerhelper.app-main-52:/drawable/ic_cards.xml"
+    },
+    {
+        "merged": "com.pokerhelper.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.pokerhelper.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

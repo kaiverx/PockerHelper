@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pokerhelper.core.HandEvaluatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-05-12T20:57:46.465Z" hostname="DESKTOP-1IU6C40" time="0.02">
+  <properties/>
+  <testcase name="wheel straight A-2-3-4-5 detected with 5 as high card" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.016"/>
+  <testcase name="flush beats straight" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="regular straight detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="pair detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.001"/>
+  <testcase name="full house detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="flush detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="high card detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="two pair detected with correct tiebreakers" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="higher pair beats lower pair" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.001"/>
+  <testcase name="three of a kind detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="royal flush detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="picks best 5 from 7 cards" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.002"/>
+  <testcase name="straight flush detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <testcase name="four of a kind detected" classname="com.pokerhelper.core.HandEvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
